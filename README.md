@@ -1,9 +1,8 @@
 ## Blosttt
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&color=7928ca&style=flat-square&label=Perfil+Visto" alt="Benjamin Sobarzo" />
-  <img src="https://img.shields.io/badge/AI%20Enhanced-Gemini-blue?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini Enhanced" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=blosttt&color=7928ca&style=flat-square&label=Perfil+Visto" alt="Benjamin Sobarzo" />
+ 
 
 ### 🚀 Estudiante de Ingeniería Civil en Informática
 Me apasiona el desarrollo de software, la arquitectura de sistemas y la optimización de código. Disfruto explorar herramientas tecnológicas avanzadas, resolver problemas complejos mediante la programación y experimentar con hardware e infraestructura computacional.
