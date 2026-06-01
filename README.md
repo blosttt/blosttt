@@ -11,8 +11,6 @@ Me apasiona el desarrollo de software, la arquitectura de sistemas y la optimiza
 
 ### 🛠️ Tecnologías y Herramientas
 
-Organizadas con un estilo moderno, colorido y limpio utilizando las tecnologías de tu stack:
-
 #### 💻 Lenguajes de Programación y Scripting
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
