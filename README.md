@@ -49,8 +49,8 @@ He trabajado con una amplia variedad de lenguajes, entornos de ejecución y fram
 A continuación, puedes ver un resumen dinámico de mi actividad, commits y lenguajes más utilizados en la plataforma (usa el tema *Tokyonight* con contrastes morados, azules y rosados muy estéticos):
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="190px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&langs_count=8" alt="Lenguajes más usados" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=blosttt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blosttt&layout=compact&theme=tokyonight&langs_count=8" alt="Lenguajes más usados" height="190px"/>
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ A continuación, puedes ver un resumen dinámico de mi actividad, commits y leng
 
 ### 📌 En lo que estoy enfocado actualmente
 
-- 🎓 Cursando asignaturas y proyectos avanzados en **Ingeniería Civil en Informática**.
+- 🎓 Cursando mi ultimo año de **Ingeniería Civil en Informática**.
 - 🛠️ Desarrollando software robusto y explorando integraciones eficientes con arquitecturas modernas.
 - 🚀 Aprendiendo continuamente sobre optimización de rendimiento y buenas prácticas de desarrollo.
 
@@ -72,7 +72,7 @@ A continuación, puedes ver un resumen dinámico de mi actividad, commits y leng
 Si quieres revisar mis repositorios o ponerte en contacto para colaborar en algún proyecto, ¡puedes explorar mi perfil!
 
 <p align="left">
-  <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
+  <a href="https://github.com/blosttt" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
