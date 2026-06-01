@@ -45,11 +45,15 @@ He trabajado con una amplia variedad de lenguajes, entornos de ejecución y fram
 
 ### 📊 Mis Estadísticas de GitHub
 
-A continuación, puedes ver un resumen dinámico de mi actividad, commits y lenguajes más utilizados en la plataforma (usa el tema *Tokyonight* con contrastes morados, azules y rosados muy estéticos):
+A continuación, puedes ver un resumen dinámico de mi actividad, commits y lenguajes más utilizados en la plataforma:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blosttt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="190px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blosttt&layout=compact&theme=tokyonight&langs_count=8" alt="Lenguajes más usados" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=blosttt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Benjamin" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blosttt&layout=compact&theme=tokyonight&langs_count=8" alt="Lenguajes más usados por Benjamin" height="190px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blosttt&theme=tokyonight" alt="Racha de GitHub de Benjamin" />
 </p>
 
 <p align="center">
